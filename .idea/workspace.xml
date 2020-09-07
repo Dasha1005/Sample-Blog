@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="347a0edf-647e-48da-9bcb-a4adacd30d10" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gxDBPZkxWTQQNokx6p2JiwyqML" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\Desktop\Sample__Blog\images" />
+      <recent name="C:\Users\Acer\Desktop\Sample__Blog" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="347a0edf-647e-48da-9bcb-a4adacd30d10" name="Default Changelist" comment="" />
+      <created>1599047213341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599047213341</updated>
+      <workItem from="1599047214393" duration="3288000" />
+      <workItem from="1599053369512" duration="1771000" />
+      <workItem from="1599055604383" duration="784000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="279" y="139" key="EditFileWatcherDialog" timestamp="1599047302748">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="279" y="139" key="EditFileWatcherDialog/0.0.1218.720@0.0.1218.720" timestamp="1599047302748" />
+    <state x="390" y="116" key="FileChooserDialogImpl" timestamp="1599136099986">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="390" y="116" key="FileChooserDialogImpl/0.0.1218.720@0.0.1218.720" timestamp="1599136099986" />
+    <state x="251" y="87" width="700" height="530" key="recent.locations.popup" timestamp="1599055645721">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="251" y="87" width="700" height="530" key="recent.locations.popup/0.0.1218.720@0.0.1218.720" timestamp="1599055645721" />
+  </component>
+</project>
